@@ -1,0 +1,5 @@
+(executable
+ (public_name quick_sort)
+ (name main)
+ (libraries sort)
+)
